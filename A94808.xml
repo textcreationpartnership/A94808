@@ -1,0 +1,199 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Treason and rebellion against their native country justly rewarded upon severall traitors and rebels lately executed in Scotland. Certified by an expresse in two letters dated at Saint Andrews, Jan. 26. 1645. Together with a declaration of the Generall Assembly of the Church of Scotland. Published by authority.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94808</idno>
+            <idno type="STC">Wing T2072</idno>
+            <idno type="STC">Wing C4211</idno>
+            <idno type="STC">Thomason E322_5</idno>
+            <idno type="STC">Thomason E322_6</idno>
+            <idno type="STC">ESTC R200577</idno>
+            <idno type="EEBO-CITATION">99861290</idno>
+            <idno type="PROQUEST">99861290</idno>
+            <idno type="VID">159519</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94808)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 159519)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 53:E322[5] or 53:E322[6])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Treason and rebellion against their native country justly rewarded upon severall traitors and rebels lately executed in Scotland. Certified by an expresse in two letters dated at Saint Andrews, Jan. 26. 1645. Together with a declaration of the Generall Assembly of the Church of Scotland. Published by authority.</title>
+                  <author>Church of Scotland. General Assembly.</author>
+               </titleStmt>
+               <extent>[12]; 15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostocke, and are to be sold at his shop at the Kings Head in Pauls Churchyard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes: A declaration from the Commission of the Generall Assembly. Wherein the stumbling blocks laid before the people of God by their enemies are removed ... (Wing C4211); this has separate dated title page, separate pagination and register.</note>
+                  <note>Annotation on Thomason copy: "feb: 9th 1645"; the second 6 in imprint date crossed out. On title page to "A declaration": the second 6 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  Charles I,1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:159519:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 22 -->
+            <p>TREASON AND REBELLION Againſt their Native Country juſtly rewarded upon ſeverall Traitors and Rebels lately executed in SCOTLAND.</p>
+            <p>Certified by an Expreſſe in two Letters dated at Saint <hi>Andrews,</hi> Jan. 26. 1645.</p>
+            <p>Together with a Declaration of the Generall Aſſembly of the Church of SCOTLAND.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>LONDON, Printed for <hi>Robert Boſtocke,</hi> and are to be ſold at his ſhop at the Kings Head in Pauls Churchyard 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:159519:2"/>
+            <!-- PDF PAGE 23 -->
+            <pb facs="tcp:159519:2"/>
+            <!-- PDF PAGE 23 -->
+            <head>A Copy of a Letter ſent from S. <hi>Andrews,</hi> dated January 26. 1645.</head>
+            <opener>
+               <salute>SIR:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He Committee appointed for the Pro<g ref="char:EOLhyphen"/>ceſſes againſt Delinquents having found the Enditements brought in a<g ref="char:EOLhyphen"/>gainſt Sir <hi>Robert Spotſwood,</hi> pretended Secretary of State, <hi>William Murrey,</hi> Bro<g ref="char:EOLhyphen"/>ther to the Earle of Tillibarne, Gen. Major <hi>Nathaniell Gordoun,</hi> and Maſter <hi>Andrew Guthery,</hi> Sonne to the pretended Biſhop of Mur<g ref="char:EOLhyphen"/>ray to be relevant, and having repelled all their defen<g ref="char:EOLhyphen"/>ces except that of Quarters, which was left to the deter<g ref="char:EOLhyphen"/>mination of the Parliament; their Proceſſes were read in open Parliament, and there were many rationall de<g ref="char:EOLhyphen"/>bates about the defence of Quarters grounded upon Scripture, Reaſon, Law of Nations, and Military, and the municipall Law of this Kingdom; the ſtate of the Queſtion was, Whether the granting of quarter in Bat<g ref="char:EOLhyphen"/>tell to Delinquents by an Officer or Souldier, did exempt
+<pb facs="tcp:159519:3"/>
+               <!-- PDF PAGE 24 -->them from puniſhment by the State, for their Murder, Rebellion, and Treaſon; and it was reſolved unanimouſ<g ref="char:EOLhyphen"/>ly by the whole Parliament that the defence of Quarters was not relevant, when all the defences were repelled, and the Parliament was ready to pronounce Sentence. Offer was made by <hi>Nathaniell Gordoun</hi> to procure the exchange of all the Priſoners with <hi>James Grahame</hi> late Earle of Montroſe for himſelfe, and to lye in priſon un<g ref="char:EOLhyphen"/>till they were brought hither, and further to engage himſelfe, and finde Surety that he ſhould never lift Arms againſt the Parliament. This offer he conceived to be the more plauſible, that the Lord Chancellors Brother was one of the priſoners with the enemy; but when the Lord Chancellors opinion was asked therein, he decla<g ref="char:EOLhyphen"/>red, That though all his Brethren and Children were in the like hazard, he would not be the meanes of hinde<g ref="char:EOLhyphen"/>ring the execution of Juſtice. And ſuch was the earneſt deſire of the Parliament to execute Juſtice, that this mo<g ref="char:EOLhyphen"/>tion was rejected, and all the foure were forfeited in Life, Lands, and Goods; their Coats of Armes ap<g ref="char:EOLhyphen"/>poined to be rent, and deleted out of the Booke of Armes, and themſelves to be beheaded upon Tueſday the twentieth of January, there were onely five or ſixe contrary voices, and thoſe were for perpetuall im<g ref="char:EOLhyphen"/>priſonment. The Earl of Tillibarn preſented a very hum<g ref="char:EOLhyphen"/>ble ſupplication for ſparing his brothers life, and entrea<g ref="char:EOLhyphen"/>ting that any other puniſhment might be inflicted upon him. This was denyed, but in regard he was very inſenſi<g ref="char:EOLhyphen"/>ble of his preſent eſtate, his execution was delayed till Friday the 23. and ſome Miniſters were appointed to waite upon him, and to endeavour to bring him to ſome ſence of his condition. Upon the 17. three of them were
+<pb facs="tcp:159519:3"/>
+               <!-- PDF PAGE 24 -->executed, and firſt <hi>Nathaniell Gordoun,</hi> who was excee<g ref="char:EOLhyphen"/>ding penitent, whereof he gave many evidences to all that heard him, and at his earneſt deſire (given in writing under his hand, whereof a Copy is herewith ſent) he was relaxed fro<g ref="char:cmbAbbrStroke">̄</g> the ſentence of Excommunication. After they were condemned, he &amp; Sir <hi>Robert Spotſwood</hi> were put in one Chamber, whoſe obſtinacy did him ſome har me; but when he came to the Scaffold, he ſaid, It was not time to dalley longer in a matter of eternall conſequence, he acknowledged that mercies led him not to repentance, and therefore God had brought him to that publike death; he confeſſed he had been an Adulterer, a Drun<g ref="char:EOLhyphen"/>kard, and a ſhedder of innocent blood; he beſought all to pray for him, and craved pardon of all that had any intereſt in the blood ſhed of late. Caſting off his Doublet, he ſaid, That many a time he had caſt it off to ſinne, but now hee caſt it off to embrace his Saviour, and to let his blood be now juſtly ſhed, who formerly had ſhed much innocent blood. As for that ambition that made men provoke to Combates, he ſaid, Of all vanities it was one of the chiefe; He deſired the Parliament to keepe unity in the Cauſe, and to avoid diviſion, as they deſired to ſhun Gods Judgement upon themſelves. And amongſt his laſt words, he ſaid, He left as many ill wiſhes as in the condition he was in he durſt, to all ſuch of his friends as ſhould attempt to revenge his death, he deſired the Miniſter not to part with him, till he delive<g ref="char:EOLhyphen"/>red him over to his Redeemer. All his diſcourſe was ſo ingenuous, and his expreſſions ſo Pathetick that he had few hearers, from whoſe eyes he did not bring teares. But Sir <hi>Robert Spotſwood,</hi> and Maſter <hi>Andrew Guthery,</hi> dyed as they lived, full of malice againſt the Cauſe and
+<pb facs="tcp:159519:4"/>
+               <!-- PDF PAGE 25 -->Covenant, juſtifying themſelves in all that they had done againſt the Cauſe. Sir <hi>Robert Spotſwood</hi> inveighed much in his diſcourſe againſt the Parliament of England, ſtiling them alwaies Rebels, and ſaid, The Judgement of God was upon this Kingdome for aſſiſting thoſe Re<g ref="char:EOLhyphen"/>bells againſt their native King, when he had granted unto us all that we could crave concerning the ſetling of our owne Peace, and deſired no more of this King<g ref="char:EOLhyphen"/>dome but that they would be neutrals in the affaires of England; that the excommunicating thoſe holy men of GOD (meaning the Biſhops) was lying as a grievous ſinne upon this Land. That God had put a lying ſpirit in the mouthes of our Prophets, whereby the people were deluded. Maſter <hi>Robert Blare</hi> who was appointed to attend him, deſired the people to take notice that he was the Sonne of a falſe Prophet, <hi>viz.</hi> the pretended Arch-Biſhop of Saint <hi>Andrewes,</hi> ſometimes Chancellor of Scotland; he would confeſſe no more ſinne, but that he had as other men, <hi>Peccate juventutis, &amp; quotidianae incurſionis.</hi> He ſaid to the Pro<g ref="char:EOLhyphen"/>veſt of Saint <hi>Andrewes,</hi> That he was ſorry, the place where he was ſo much honoured ſhould now be the Stage of his Tragedy. <hi>William Murray</hi> was executed upon Friday the 23. He confeſſed himſelfe guilty of Adultery and Drunkenneſſe: but denyed that he was a Traitor to his Country. It is worthy of remarke, that <hi>Nathaniell Gordoun</hi> whoſe ſentence was moſt que<g ref="char:EOLhyphen"/>ſtioned, becauſe of the offer made by him for ex<g ref="char:EOLhyphen"/>change, that it ſhould pleaſe God to open his eyes, and move him ſo ingenuouſly to acknowledge the Juſtice of the Sentence pronounced againſt him. Sir <hi>William Rollock,</hi> Sir <hi>Philip Nisbet,</hi> and <hi>Inner
+<pb facs="tcp:159519:4"/>
+                  <!-- PDF PAGE 25 -->Wharrity,</hi> who were formerly executed at Glaſgow acknowledged the Juſtice of the Sentence pronoun<g ref="char:EOLhyphen"/>ced againſt them; yea <hi>Macklauchlane,</hi> and Col. <hi>Ocain</hi> the two Iriſh Rebells hanged at Edenburgh did the ſame: But theſe three laſt executed were obſtinate to their laſt breath. The Proceſſe againſt the Earle of Hartfell is to be brought in to the Parliament this weeke. I acquainted you by my laſt that the Lord <hi>Ogilby</hi> was eſcaped out of Priſon in his Siſters cloathes, and that the Rebells did retreat to the Hills upon Colonell <hi>Barclayes</hi> advance. I have no more to adde at this occaſion, but that I am Sir;</p>
+            <closer>
+               <dateline>St. Andrews <date>the 26. of January. 1645.</date>
+               </dateline>
+               <signed>Your affectionate friend to ſerve you.</signed>
+            </closer>
+         </div>
+         <div type="recantation">
+            <pb facs="tcp:159519:5"/>
+            <!-- PDF PAGE 26 -->
+            <opener>
+               <dateline>At Saint <hi>Andrews</hi> 
+                  <date>Jan. 20. 1646/5.</date>
+               </dateline>
+            </opener>
+            <p>
+               <hi>I Nathaniel Gordoun,</hi> being heartily ſorrowfull for my manifold grievous ſinnes againſt Almighty God, and ſpecially for taking up Armes and ſhedding much innocent blood in this wicked Rebellion againſt this Church and Kingdome; for which I was juſtly ex<g ref="char:EOLhyphen"/>communicate by the Kirk; I doe therefore humbly beg mercy and pardon from God for the ſame, through and for the merits of Chriſt his Sonne, de<g ref="char:EOLhyphen"/>ſiring earneſtly to be relaxed from that fearfull ſen<g ref="char:EOLhyphen"/>tence of Excommunication: And doe hereby requeſt and exhort all who yet adhere to that wicked cauſe, to leave the ſame as they would eſchew the wrath of God. All which I doe declare and teſtifie in the ſin<g ref="char:EOLhyphen"/>cerity of my heart, and in the ſight of God the ſear<g ref="char:EOLhyphen"/>cher of hearts, ſubſcribing the ſame with my hand the day and place aforeſaid.</p>
+            <closer>
+               <signed>Nath. Gordoun.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:159519:5"/>
+            <!-- PDF PAGE 26 -->
+            <head>The Copie of another Letter ſent from Saint <hi>Andrews,</hi> Dated <date>Ia<g ref="char:EOLhyphen"/>nuary. 26. 1645.</date>
+            </head>
+            <opener>
+               <salute>My honoured friend;</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Know you will heare by the publike Let<g ref="char:EOLhyphen"/>ters what our worke is here; yet it will be but a ſmall loſſe of time to you, to take notice of ſome Obſervations from him who is your Brother in Chriſt, and your private friend for the Publikes ſake. When I remember the ſervants of God who have ſuffered for the Cauſe of Chriſt in this Land, of which many were my deareſt friends, they bring to my minde <hi>Simon</hi> a man of Cyrene, who bearing the Creſſe of Chriſt after him, was the character of a Chriſtian: When I looke upon them, who by order of Juſtice are put to death for their wicked and unnaturall Rebellion, ſome of them, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Sir <hi>William Rollock</hi> formerly, and now <hi>Nathaniel Gordoun,</hi> repreſent to my thoughts the penitent Malefa<g ref="char:EOLhyphen"/>ctor converted to Chriſt at the time of his death; But o<g ref="char:EOLhyphen"/>thers of them, ſuch as <hi>Spotſwood</hi> and <hi>Guthery,</hi> are like the other thiefe that died rayling on Chriſt: In the one ſort the mercy of God was manifeſt to repenting ſinners; In the other, the juſtice of God was ſeene againſt ſuch as continue in the iniquity of their fathers; for they were <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the wicked Sons of two excommuni<g ref="char:EOLhyphen"/>cated Prelates. This <hi>Spotſwood,</hi> ſometimes Preſident of the Colledge of Iuſtice, Sonne to him who was both preten<g ref="char:EOLhyphen"/>ded Primate and Chancellor of Scotland, <hi>(monſtrum hor<g ref="char:EOLhyphen"/>rendum)</hi> complayned on the Scaffold, that he was brought
+<pb facs="tcp:159519:6"/>
+               <!-- PDF PAGE 27 -->to ſuffer in the place where ſometimes he had been ſo much honoured, but did not obſerve the juſtice of God, by this cir<g ref="char:EOLhyphen"/>cumſtance of the place doubling his puniſhment, that ſome few yeers ago his curſed fathers Coatch (himſelf then being in England) was brought from his Caſtle thorow the whole City with the Hangman ſitting in it, to the ſame very place of the Market Croſſe, and rent all in pieces? The Lord is known by the judgement that he executes; <hi>So let all thine enemies periſh, O Lord.</hi> His fatall ſentence was to die as a Traitor to the Eſtates, and an Enemy to his native Country; from which while he endeavored to vindicate his innocen<g ref="char:EOLhyphen"/>cy, he did involve himſelfe in further guiltineſſe of both, by charging the Kingdome of England with Rebellion, and this Kingdome with unparalleld diſloyalty, in taking part with a Faction in England againſt our owne native King, who at his laſt being here, had given contentment to this Kingdome, both in the Affaires of Church and Policy, and by juſtifying and profeſſing his aſſiſting of the deſigne of <hi>James Grahame,</hi> whom he calleth the Lord Marqueſſe of Montroſe, the matchleſſe mirrour of all true worth and No<g ref="char:EOLhyphen"/>bility: In all which (to ſay no more) he either lyed moſt impudently againſt his owne knowledge and conſcience; for he behooved to be convinced by our Declarations, and could not be ignorant that <hi>James Grahame</hi> was not a Mirrour for Noblemen to dreſſe by, but to preſent the mon<g ref="char:EOLhyphen"/>ſtrous face of drunkenneſſe, of Adulteries, and of divelliſh pride, in ſuch as are of noble extraction; for which (as was often preſaged of him, and hath beene paralleld by ſome few examples,) the Lord hath plagued him to be ſo horrible an Apoſtate and unnaturall murtherer, and is re<g ref="char:EOLhyphen"/>ſerving him for a tragicall end, to be a mirror of his ju<g ref="char:EOLhyphen"/>ſtice and wrath to all degenerous and perfidious ſpirits in this and the after ages. And I am ſure that <hi>Spotſwood</hi> did no more allow him in taking and pretending to keepe
+<pb facs="tcp:159519:6"/>
+               <!-- PDF PAGE 27 -->our firſt Nationall Covenant, by vertue whereof our Pre<g ref="char:EOLhyphen"/>lates did periſh, then he did approve of others in joyning in the mutuall Covenant of both Kingdomes, by which him<g ref="char:EOLhyphen"/>ſelfe and his fellowes, with the Prelates of England, have now fallen. To returne, if <hi>Spotſwood</hi> did not lye againſt his owne preſent conſcience, he was puniſhed with excae<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tion of minde, ſuch as uſeth to be the uſher of exemplary ruine and deſtruction in thoſe whom the Lord hateth. One thing I cannot paſſe by, which maketh me conceive his eſtate to have been the more deſperate, and that God had ſhut the way againſt all comfort to him by his Miniſters; he ſpared not openly to ſpew forth that God had put a lying ſpirit in the mouthes of the moſt part of the Prophets in the Land; It was anſwered in the time, That himſelfe was the Sonne of a lying Prophet. And indeed, as one ſaith of <hi>Caeſar Borgia,</hi> the Sonne of Pope <hi>Alexander</hi> the ſixth, he was like his father, not onely in body, but in the ſwarthi<g ref="char:EOLhyphen"/>neſſe of the complexion of his ſoul, both of them would have given no other verdict of our firſt Reformers, and of all the faithfull that have either ſucceeded them in this Church, or have oppoſed defection, or ſought after Refor<g ref="char:EOLhyphen"/>mation in the Church of England.</p>
+            <p>The teſtimony of ſuch Atheiſts and worldlings againſt them is no ſmall commendation unto them, and to the truth which they have conſtantly preached, and ſealed with their ſufferings. But finding my ſelfe drawne beyond the length of a Letter, I will not further inſiſt: I would onely know of you ſome fewe things; <hi>1.</hi> What can be the cauſe that Church-Government is not yet ſetled in England? The Aſ<g ref="char:EOLhyphen"/>ſembly having given their advice for at long agoe? the power of the Parliament being increaſed to ſuch a fulneſſe, is able to doe it; and if they did not intend it in the begin<g ref="char:EOLhyphen"/>ning, or if they be growne more remiſſe then they were at firſt, I pray you tell me by what means I ſhall convince Ma<g ref="char:EOLhyphen"/>lignants,
+<pb facs="tcp:159519:7"/>
+               <!-- PDF PAGE 28 -->and confirme the godly who have ſuffered ſo much in this cauſe. <hi>2.</hi> Let me know whether it be true that is talked here by the beſt affected, upon what grounds I know not, that many of our profeſſed Brethren rejoyce in this, that God hath raiſed up an Enemy againſt us in our owne Land, that they may the more eaſily diſpoſe of our forces there at their pleaſure; for I cannot imagine that they have more reaſon to rejoyce in our calamity, then we had to rejoyce in theirs. <hi>3.</hi> Who is that <hi>Robert Wright</hi> and that unknowne Knight who endeavours to make diviſion be<g ref="char:EOLhyphen"/>tween the Kingdomes by their letters and falſe informati<g ref="char:EOLhyphen"/>ons: Have we not expreſſely covenanted to diſcover all ſuch as are Incendiaries between the two Kingdomes, and to bring them to publique tryall, that they may receive con<g ref="char:EOLhyphen"/>digne puniſhment, according as their offence ſhall deſerve? And are we not alſo obliged to endeavour that the two Kingdomes may remaine conjoyned in a firm peace and u<g ref="char:EOLhyphen"/>nion to all poſterity. <hi>4.</hi> I deſire to underſtand, whether be<g ref="char:EOLhyphen"/>fore this work be done, they will inſiſt in demanding their Garriſons, in abridging or ſtarving our Forces, and in u<g ref="char:EOLhyphen"/>ſing all means to drive us home <hi>re infectâ.</hi> When you have ſatisfied me in theſe particulars, I will tell you more of my minde; In the meane time believe me, if matters go there according to the ſpeeches of many here, although none of the wifeſt, yet <hi>non eſt temere quod vulgus dictitat,</hi> I know not what our Commiſſioners can ſay for themſeives, that they have not given timeous warning of ſo great a change of diſpoſition in our Brethren; and I know it will pro<g ref="char:EOLhyphen"/>duce more wofull effects then I deſire to ſee; but God I hope will bring his worke to a more gracious end; which ſhall be the earneſt prayer and endeavour of</p>
+            <closer>
+               <dateline>St. Andrews, <date>26. of January, 1645.</date>
+               </dateline>
+               <signed>Your affectionate friend and ſervant.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
